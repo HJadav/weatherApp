@@ -30,6 +30,8 @@
 		<key>NSAllowsArbitraryLoads</key>
 		<false/>
 		<key>NSAllowsLocalNetworking</key>
+		<key>NSLocationWhenInUseUsageDescription</key>  <!-- added line   -->
+		<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>  <!-- added line   -->
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
